@@ -1,9 +1,8 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+안녕하세요!  
+인하대학교 컴퓨터공학과에 재학중인 강정우입니다. 
+  
+지금은 게임 개발을 공부하고 있습니다.  
+아쉽게도 아직은 저에 대해 소개할 만한 거나 보여드릴 만한 것이 없네요..
 
-::github{repo="saicaca/fuwari"}
-
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+짧지만 읽어주셔서 감사합니다! 
