@@ -3,13 +3,13 @@ title: 쉐이더프로그래밍 4주차 과제
 published: 2024-10-03
 description: "인하대학교 디자인테크놀로지학과에 개설된 '쉐이더프로그래밍(DET2015)' 과목을 수강하며 작성한 과제입니다."
 image: ''
-tags: [shader_programming]
-category: '과제'
+tags: [shader_programming, assignment]
+category: '쉐이더프로그래밍'
 draft: false 
 lang: 'ko'
 ---
 
-:::note  
+:::note[들어가기 전에]  
 인하대학교 디자인테크놀로지학과에 개설된 '쉐이더프로그래밍(DET2015)' 과목을 수강하며 작성한 과제입니다.  
 :::
 ---

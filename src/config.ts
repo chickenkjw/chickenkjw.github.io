@@ -58,11 +58,11 @@ export const profileConfig: ProfileConfig = {
                                         // `pnpm add @iconify-json/<icon-set-name>`
       url: 'https://x.com/nariel_dev',
     },
-    // {
-    //   name: 'Steam',
-    //   icon: 'fa6-brands:steam',
-    //   url: 'https://store.steampowered.com',
-    // },
+    {
+      name: 'Bluesky',
+      icon: 'fa6-brands:bluesky',
+      url: 'https://bsky.app/profile/ariel1910.bsky.social',
+    },
     {
       name: 'GitHub',
       icon: 'fa6-brands:github',
