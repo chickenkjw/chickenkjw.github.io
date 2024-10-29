@@ -7,7 +7,7 @@ import type {
 import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
-  title: '아리엘의 작은 쉼터',
+  title: '하얀비의 작은 쉼터',
   subtitle: '또한 작은 메모장',
   lang: 'ko',         // 'en', 'zh_CN', 'zh_TW', 'ja', 'ko'
   themeColor: {
@@ -48,7 +48,7 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
   avatar: 'assets/images/avatar.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-  name: 'Ariel',
+  name: '하얀비',
   bio: '차근차근',
   links: [
     {
@@ -56,12 +56,12 @@ export const profileConfig: ProfileConfig = {
       icon: 'fa6-brands:twitter',       // Visit https://icones.js.org/ for icon codes
                                         // You will need to install the corresponding icon set if it's not already included
                                         // `pnpm add @iconify-json/<icon-set-name>`
-      url: 'https://x.com/nariel_dev',
+      url: 'https://x.com/_hayanbi',
     },
     {
       name: 'Bluesky',
       icon: 'fa6-brands:bluesky',
-      url: 'https://bsky.app/profile/ariel1910.bsky.social',
+      url: 'https://bsky.app/profile/hayanbi.bsky.social',
     },
     {
       name: 'GitHub',
