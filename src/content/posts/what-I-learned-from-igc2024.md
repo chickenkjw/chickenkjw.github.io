@@ -1,5 +1,5 @@
 ---
-title: igc2024 강연을 들으며 배운 것들
+title: PD는 어떤 선택을 해야 하는가?
 published: 2024-09-08
 description: '이전 프로젝트의 진행에서 어떤 것을 하지 말아여 했고, 이를 어떻게 개선할 수 있을까? igc2024 강연에서 들은 내용을 토대로 고찰해보았다.'
 image: "https://blogimage001.blob.core.windows.net/pictures/cover.jpg"

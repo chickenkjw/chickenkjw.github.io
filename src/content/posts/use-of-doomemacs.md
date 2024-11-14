@@ -4,7 +4,7 @@ published: 2024-09-15
 description: '새 유니티 스크립트 에디터로 emacs를 도입해보려고 한 이야기입니다'
 image: ''
 tags: [emacs, editor]
-category: '이맥스'
+category: '에디터'
 draft: false
 language: 'ko'
 ---
