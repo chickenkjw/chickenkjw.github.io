@@ -400,10 +400,7 @@ $ (MN)_{ij} = \sum m_{ik}n_{kj}$
 벡터와 행렬 간 곱셈한 값을 반환한다.  
 벡터와 행렬의 인자 순서가 바뀌면 반환되는 행렬의 크기가 바뀔 수 있기 때문에, 둘은 구분하여 사용해야 한다.  
 
-그래픽스에서는 이동(Translation)에 사용된다.  
-(X, Y, Z)의 위치한 점(혹은 벡터)를 (x, y, z)만큼 옮기고 싶을 때 사용한다.
-
-$ \begin{pmatrix} X & Y & Z & 1 \end{pmatrix} \begin{bmatrix} 1 & 0 & 0 & x \\ 0 & 1 & 0 & y \\ 0 & 0 & 1 & z \\ 0 & 0 & 0 & 1 \end{bmatrix} = \begin{pmatrix} X + x & Y + y & Z + z & 1 \end{pmatrix} $
+$ \begin{pmatrix} X & Y & Z & 1 \end{pmatrix} \begin{bmatrix} 1 & 0 & 0 & x \\ 0 & 1 & 0 & y \\ 0 & 0 & 1 & z \\ 0 & 0 & 0 & 1 \end{bmatrix} = \begin{pmatrix} X & Y & Z & Xx + Yy + Zz + 1 \end{pmatrix} $
 ### 32. mul(M, v)
 벡터와 행렬 간 곱셈한 값을 반환한다. 
 
