@@ -3,18 +3,11 @@ title: Emacs에도 봄은 오는가
 published: 2024-09-15
 description: '새 유니티 스크립트 에디터로 emacs를 도입해보려고 한 이야기입니다'
 image: ''
-tags: [emacs, editor]
+tags: [emacs]
 category: '에디터'
 draft: false
 language: 'ko'
 ---
-:::caution
-자세히 확인해보지는 못했지만, Unity 6에서는 작동을 하지 않는 것 같습니다.  
-아직 rider2emacs 플러그인의 문제인지, omnisharp가 Unity 6와 안되는지도 모르겠습니다. 
-
-우선은 Unity 6에서 이맥스를 사용할 수 없어 보입니다. 
-:::
-
 
 ## 그래! Emacs를 써보자!
 6월 말, 홀린듯이 튜링의 사과에서 여는 커뮤니티 강의를 신청했다. 강의에 관한 내용은 아래 링크에서 확인할 수 있다.
