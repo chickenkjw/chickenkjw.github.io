@@ -33,18 +33,22 @@ lang: ''
 
 덕분에 처음으로 신칸센도 타보고 침대열차 선라이즈 이즈모-세토도 타봤다. 언제 또 타보겠어 ( ͡° ͜ʖ ͡°)
 
-<img src="https://github.com/user-attachments/assets/48cb305d-90c8-4704-9d34-1d0eeab1667c" width="35%">
+<img src="https://github.com/user-attachments/assets/48cb305d-90c8-4704-9d34-1d0eeab1667c" width="45%">
 
 _침대열차 안에서 (그러나 잠은 제대로 못 잤다. 수시로 깸;;)_
 
 &nbsp;
 
-**중국**은 처음이라 특히 힘들었다. 아는 것도 거의 없다시피 하다. 그리고 상하이임에도 영어가 잘 안 통한다. 영어로 문장을 만들 수 있는 사람이 호텔/유람선 탑승장 외에는 없었던 것 같다(..) 그와 별개로 사람들은 정말 친절했다. 번역기로 어떻게든 도와주려는 분도 계셨는데 감사할 따름이다. 아쉽지만 내가 중국어를 좀 하기 전까지는 재방문 의사가 없을 듯 하다 ㅠ 처음에는 북경도 계획했었는데, 상하이가 이 정도인데 북경은 아예 영어가 안 통했을 듯..
+**중국**은 처음이라 특히 힘들었다. 아는 것도 거의 없다시피 한데 심지어 상하이임에도 영어가 잘 안 통한다 (!!). 영어로 문장을 만들 수 있는 사람이 호텔/유람선 탑승장 외에는 없었던 것 같다(..)  
+그와 별개로 사람들은 정말 친절했다. 번역기로 어떻게든 도와주려는 분도 계셨는데 감사할 따름이다.  
+아쉽지만 내가 중국어를 좀 하기 전까지는 재방문 의사가 없을 듯 하다 ㅠ 처음에는 북경도 계획했었는데, 상하이가 이 정도인데 북경은 아예 영어가 안 통했을 듯..
 
 중국은 정말 신기한 나라다. 폐쇄적이어서 그런지 몰라도 정말 다르더라. 사실 이웃나라임에도 중국에 대해 거의 본 적이 없지 않은가?  
 여담으로 지하철 역의 짐검사는 처음에 봤을 때는 쇼킹이었으나, 나중에는 뭐.. 익숙해진다. 역에 들어가면 알아서 가방 검사 준비 함 ㅋ.. 공안은 별로 관광객에게 관심이 없다. 그들도 바쁨.
 
-<img src="https://github.com/user-attachments/assets/b8b23ac5-fe78-49f2-9e09-131135dc88dc" width="60%">
+<p align="center">
+<img src="https://github.com/user-attachments/assets/b8b23ac5-fe78-49f2-9e09-131135dc88dc" width="85%">
+</p>
 
 - 중국 안에서의 중국인: "얘는 왜 중국에 있는데 중국말을 못하지?"  
 중국 밖에서의 중국인: "얘는 왜 중국이 아닌데 중국말을 할 줄 알지?"  
@@ -72,7 +76,7 @@ _이번에 중국 다녀오면서 가장 크게 느꼈던 점이다._ 😂
 ## 3D 모델링을 계속하다
 계속 혼자로 해보던 [Blender](https://blender.org)로 캐릭터를 만들어보았다. 전부터 만들어보려고는 했지만, 완성까지 해본 건 이번이 처음이다. 
 
-<blockquote class="twitter-tweet" data-lang="ko" width="55%"><p lang="ko" dir="ltr">만든 모델에 애니메이션 붙이고 Magica Cloth2도 붙이니까.. 움직인다!<br>그치만 고쳐야 할 게 많이 보인다ㅠ <a href="https://t.co/KgH5o3D7Ev">pic.twitter.com/KgH5o3D7Ev</a></p>&mdash; 하얀비 (@_hayanbi) <a href="https://twitter.com/_hayanbi/status/1849660989341565240?ref_src=twsrc%5Etfw">2024년 10월 25일</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="ko"><p lang="ko" dir="ltr">만든 모델에 애니메이션 붙이고 Magica Cloth2도 붙이니까.. 움직인다!<br>그치만 고쳐야 할 게 많이 보인다ㅠ <a href="https://t.co/KgH5o3D7Ev">pic.twitter.com/KgH5o3D7Ev</a></p>&mdash; 하얀비 (@_hayanbi) <a href="https://twitter.com/_hayanbi/status/1849660989341565240?ref_src=twsrc%5Etfw">2024년 10월 25일</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 위 게시물은 10월 말에 트윗했다.  
 리깅, 웨이팅, 텍스처 그리는 것도 부족하고 조악하다. 그렇지만 지금도 계속 도전하고 공부하며 나아가려 하고 있다. 
@@ -88,7 +92,7 @@ _이번에 중국 다녀오면서 가장 크게 느꼈던 점이다._ 😂
 
 2P 게임 아케이드, BIC, KGDCon, GXG, Game Esports Seoul, 지스타, 청강게임 크로니클, 버닝비버. 많은 게임들을 만났다. 내년에도 좋은 모습으로 뵙시다!
 
-<img src="https://github.com/user-attachments/assets/19f77efe-1b55-4a9d-b74b-f17862e9ce1f" width="25%">
+<img src="https://github.com/user-attachments/assets/19f77efe-1b55-4a9d-b74b-f17862e9ce1f" width="40%">
 
 _지스타에서_
 
