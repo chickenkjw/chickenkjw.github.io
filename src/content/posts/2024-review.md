@@ -2,12 +2,16 @@
 title: 2024년 회고
 published: 2024-12-26
 description: '2024년은 어떤 해였나요?'
-image: ''
+image: 'https://blogimage001.blob.core.windows.net/pictures/bic-busan-2024.webp'
 tags: [회고]
 category: '연말회고'
 draft: false 
 lang: 'ko'
 ---
+_<p align="center">동아리 사람들과 BIC 방문 전날 부산역에서 </p>_
+
+&nbsp;  
+
 ## 2024년이 끝나가다
 작성 중인 12월 26일 목요일. 벌써 한 해가 마무리되어 간다. 뭔가 이것저것 해보려고 노력했던 기억만이 스쳐가는 한 해였던 것 같아 아쉬움이 남는다.
 
@@ -46,9 +50,10 @@ _침대열차 안에서 (그러나 잠은 제대로 못 잤다. 수시로 깸;;)
 중국은 정말 신기한 나라다. 폐쇄적이어서 그런지 몰라도 정말 다르더라. 사실 이웃나라임에도 중국에 대해 거의 본 적이 없지 않은가?  
 여담으로 지하철 역의 짐검사는 처음에 봤을 때는 쇼킹이었으나, 나중에는 뭐.. 익숙해진다. 역에 들어가면 알아서 가방 검사 준비 함 ㅋ.. 공안은 별로 관광객에게 관심이 없다. 그들도 바쁨.
 
-<p align="center">
-<img src="https://blogimage001.blob.core.windows.net/pictures/shanghai-cruise.webp" width="85%">
-</p>
+<div style="display: flex; justify-content: space-evenly">
+<img src="https://blogimage001.blob.core.windows.net/pictures/shanghai-cruise.webp" width="48%">
+<img src="https://blogimage001.blob.core.windows.net/pictures/china-to-korea.webp" width="48%">
+</div>
 
 > 중국 안에서의 중국인: "얘는 왜 중국에 있는데 중국말을 못하지?"  
 중국 밖에서의 중국인: "얘는 왜 중국이 아닌데 중국말을 할 줄 알지?"  
@@ -92,8 +97,7 @@ _(이번에 중국 다녀오면서 가장 크게 느꼈던 점이다._ 😂)
 
 2P 게임 아케이드, BIC, KGDCon, GXG, Game Esports Seoul, 지스타, 청강게임 크로니클, 버닝비버. 많은 게임들을 만났다. 내년에도 좋은 모습으로 뵙시다!
 
-<img src="https://blogimage001.blob.core.windows.net/pictures/gstar2024-band.webp" width="40%">
-
+<img src="https://blogimage001.blob.core.windows.net/pictures/gstar2024-band.webp" width="48%">
 _지스타에서_
 
 ## 12월이 사라지다
